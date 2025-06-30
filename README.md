@@ -14,7 +14,7 @@ A simple **Contact Management** backend API built with **Node.js**, **Express**,
 ## 🚀 Features
 - **Create**, **Read**, **Update**, **Delete** contacts  
 - **RESTful** endpoints  
-- **Validation** and **error handling**  
+- **Validation** with **JWT** and and **error handling**  
 - **CORS** enabled  
 - **Environment-based** configuration  
 
